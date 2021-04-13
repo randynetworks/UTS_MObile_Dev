@@ -15,6 +15,16 @@ import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
 
+
+    /*
+     *         ============= COPYRIGHT ==============
+     *   Source Code adalah Open source pada Github Akun saya.
+     *   Tujuan : Hanya memberi bayangan dan memberi gambaran kasar pada
+     *            Pemecahan Masalah.
+     *   JIKA seseorang menggunakan kode/activity yang sangat sama.
+     *        Dimohon bapak mempertimbangkan kembali penilaiannya
+     * */
+
     private String[] listJurusan = {
             "-- Pilih Jurusan --",
             "Sistem Informasi",
@@ -45,8 +55,6 @@ public class MainActivity extends AppCompatActivity {
 
             }
         });
-
-
 
 
         Button btnSubmit = findViewById(R.id.btn_daftar);

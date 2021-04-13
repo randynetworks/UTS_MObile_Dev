@@ -6,6 +6,17 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+<!--
+     *         ============= COPYRIGHT ==============
+     *   Source Code adalah Open source pada Github Akun saya.
+     *   Tujuan : Hanya memberi bayangan dan memberi gambaran kasar pada
+     *            Pemecahan Masalah.
+     *   JIKA seseorang menggunakan kode/activity yang sangat sama.
+     *        Dimohon bapak mempertimbangkan kembali penilaiannya
+     *
+
+-->
+
     <ImageView
         android:id="@+id/imageView"
         android:layout_width="294dp"
